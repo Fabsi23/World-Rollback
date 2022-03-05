@@ -1,0 +1,14 @@
+# Please read the information above the entries.
+Config:
+  Prefix:
+    console-prefix: '[WorldRollback]'
+
+  # You are able to find all plugin settings here.
+  Settings:
+
+    # List your worlds here to reset them on server restart
+    # 'WIPE' will simply delete the files from the world folder
+    # Any other value will copy said worlds files into this one after deleting current files
+    reset-worlds:
+      - 'worldname': 'resetfolder'
+      - 'worldname2': 'WIPE'

@@ -1,0 +1,6 @@
+name: WorldRollback
+version: 1.0.0
+author: Fabsi23
+api-version: 1.13
+main: me.fabsi23.worldrollback.WorldRollback
+load: STARTUP
