@@ -1,6 +1,7 @@
 # Please read the information above the entries.
 Config:
   Prefix:
+    # This prefix is shown in front of all plugin messages in the console
     console-prefix: '[WorldRollback]'
 
   # You are able to find all plugin settings here.
